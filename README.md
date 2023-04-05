@@ -33,7 +33,7 @@
       <img src="https://user-images.githubusercontent.com/36131492/158049056-56e3a853-a309-4bc5-a85a-a03fa8e51ce8.png" width="40" height="40" alt="Instagram"/>
     </a>
     <a href="https://fb.com/https://www.facebook.com/profile.php?id=100035212073552" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.png"
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
            height="40" width="40" alt="https://www.facebook.com/profile.php?id=100035212073552"/>
   </a>
   </div>
