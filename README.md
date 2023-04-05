@@ -32,7 +32,8 @@
     <a href="https://instagram.com/argenabdymomunov_?igshid=YmJhNjkzNzY=" target="_blank">
       <img src="https://user-images.githubusercontent.com/36131492/158049056-56e3a853-a309-4bc5-a85a-a03fa8e51ce8.png" width="40" height="40" alt="Instagram"/>
     </a>
-    <a href="https://fb.com/https://www.facebook.com/profile.php?id=100035212073552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100035212073552" height="30" width="40" />
+    <a href="https://fb.com/https://www.facebook.com/profile.php?id=100035212073552" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FaceBook" height="40" width="40" />
   </a>
   </div>
 
